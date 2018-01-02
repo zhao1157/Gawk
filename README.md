@@ -1,5 +1,5 @@
-# Practicing_Gawk
-## ========== 1. ==========
+# Gawk
+## ========== 1. Learning_Gawk/{learning_awk.sh & refresh_awk.sh} ==========
 ### My learning philosophy: 
 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
 2. Integrate what I have leant with the new piece I'm learning to improve my understanding and view of the new language; 
