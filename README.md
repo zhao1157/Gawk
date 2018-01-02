@@ -12,8 +12,8 @@
 
 *** 
 
-## ========== 2. ==========
-
+## ========== 2.Extract_Scores/extract_data.sh ==========
+This script is to extract the students' scores of an exam and store them into a file for gnuplot later.
 
 ***
 
