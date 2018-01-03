@@ -23,3 +23,9 @@ These scripts combined with another python script, which you can find in my repo
 create fine meshes for different transitions, which are needed in FAC calculation.
 
 ***
+
+## ========== 4. Generate_PIX/{\*}
+These scripts are part of codes to generate the final p-file used for opacity calculation. See the rest codes in Generate_PIX/ of 
+repositories Bash and Python.
+
+***
